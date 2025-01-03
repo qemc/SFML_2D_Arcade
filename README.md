@@ -1,6 +1,6 @@
 Project written as a competition with my friend. The task was to code the simple arcade game in less than 2h.
 
-###Gameplay
+*Gameplay*
 
 The goal is easy - survive the wave of enemies plane and the boss at the end.
 
