@@ -1,0 +1,14 @@
+﻿  Plane.cpp
+C:\Users\qemcx\source\repos\SFML_2D_Arkanoid\SFML_2d_game\Plane.cpp(126,30): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Arkanoid\SFML_2d_game\Plane.cpp(226,37): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Arkanoid\SFML_2d_game\Plane.cpp(232,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\qemcx\source\repos\SFML_2D_Arkanoid\SFML_2d_game\Plane.cpp(232,49): warning C4244:         with
+C:\Users\qemcx\source\repos\SFML_2D_Arkanoid\SFML_2d_game\Plane.cpp(232,49): warning C4244:         [
+C:\Users\qemcx\source\repos\SFML_2D_Arkanoid\SFML_2d_game\Plane.cpp(232,49): warning C4244:             T=float
+C:\Users\qemcx\source\repos\SFML_2D_Arkanoid\SFML_2d_game\Plane.cpp(232,49): warning C4244:         ]
+C:\Users\qemcx\source\repos\SFML_2D_Arkanoid\SFML_2d_game\Plane.cpp(237,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Sidebar.cpp
+  Źródło.cpp
+C:\Users\qemcx\source\repos\SFML_2D_Arkanoid\SFML_2d_game\Źródło.cpp(58,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  SFML_2d_game.vcxproj -> C:\Users\qemcx\source\repos\SFML_2D_Arkanoid\x64\Debug\SFML_2d_game.exe
